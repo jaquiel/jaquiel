@@ -7,10 +7,6 @@ My name is Jaquiel Paim. I'm a Software Engineer from Brazil, currently working 
 I like new challenges and experiences and I also try to be in constant learning. At the moment I have been working remotely since before the pandemic and I am passionate about innovation and new technologies.
 
 ##
-
-<a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jaquiel&count_private=true&show_icons=true&theme=github_dark" />
-</a>
 <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaquiel&theme=github_dark&layout=compact" />
 </a>
