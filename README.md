@@ -10,3 +10,4 @@ I like new challenges and experiences and I also try to be in constant learning.
 <a href="">
   <img align="center" src="https://github-readme-stats-ruby-one.vercel.app/api?username=jaquiel&theme=github_dark&layout=compact" />
 </a>
+![Jaquiel's github stats](https://github-readme-stats.vercel.app/api?username=jaquiel&theme=github_dark&layout=compact)
