@@ -8,5 +8,5 @@ I like new challenges and experiences and I also try to be in constant learning.
 
 ##
 <a href="">
-  <img align="center" src="[https://github-readme-stats-ruby-one.vercel.app/api?username=jaquiel&theme=github_dark&layout=compact](https://github-readme-stats.vercel.app/api?username=jaquiel&theme=github_dark&layout=compact)" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaquiel&layout=compact&langs_count=6&theme=algolia"/>
 </a>
