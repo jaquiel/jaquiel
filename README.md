@@ -15,7 +15,7 @@ I enjoy new challenges and experiences, and I also strive to be in a state of co
 
 
 <a href="https://github.com/jaquiel/SerialKey.Manager">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jaquiel&repo=SerialKey.Manager&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jaquiel&repo=SerialKey.Manager" />
 </a>
 
 <br />
