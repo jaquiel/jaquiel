@@ -6,7 +6,6 @@ My name is Jaquiel Paim. I'm a Software Engineer from Brazil, based in Portugal,
 
 I enjoy new challenges and experiences, and I also strive to be in a state of constant learning. I have been working remotely since before the pandemic and am passionate about innovation and new technologies.
 
-##
 <!--a href="">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaquiel&layout=compact&langs_count=6&theme=algolia"/>
 </a-->
